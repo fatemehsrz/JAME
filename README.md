@@ -1,4 +1,4 @@
-### Fatemeh Salehi Rizi, and Michael Granitzer. "Multi-task Network Embedding with Adaptive Loss Weighting." In 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), IEEE, 2020.
+Fatemeh Salehi Rizi and Michael Granitzer. "Multi-task Network Embedding with Adaptive Loss Weighting." In 2020 IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining (ASONAM), IEEE, 2020.
 
 # How to run
  - To generate embeddings run main.py 
