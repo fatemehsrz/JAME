@@ -18,3 +18,7 @@ Fatemeh Salehi Rizi and Michael Granitzer. "Multi-task Network Embedding with Ad
  - PubMed: PubMed Dataset
  - results: contains result files 
  - loss: contains loss values and task weights
+
+# Acknowledgement
+The presented work was developed within the Provenance Analytics project funded by the German Federal Ministry of Education
+and Research, grant agreement number 03PSIPT5C.
