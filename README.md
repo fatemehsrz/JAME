@@ -4,7 +4,7 @@ Fatemeh Salehi Rizi and Michael Granitzer. "Multi-task Network Embedding with Ad
  - To generate embeddings run main.py 
  
 
-# Files
+# Python Files
  - main.py: generates embeddings
  - loss_weighting: it's an adaptive loss weighting layer in neural networks
  - link_pred: link prediction
